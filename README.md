@@ -1,6 +1,6 @@
 # How to Install Only Desired MS Office Apps
 
-Standard MS Office installation packages contain apps you may not want. This guide shows how to install only desired. This guide has been working since 03/01/2020.
+Standard MS Office installation packages contain apps you may not want. This guide shows how to install only desired and has been working since 03/01/2020.
 
 ## Via Office Deployment Tool
 
