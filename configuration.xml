@@ -1,0 +1,20 @@
+<Configuration>
+    <Add SoucePath="" OfficeClientEdition="64">
+        <Product ID="o365ProPlusRetail">
+            <Language ID="en-us" />
+			<ExcludeApp ID="Groove" />
+			<ExcludeApp ID="InfoPath" />
+			<ExcludeApp ID="Lync" />
+			<ExcludeApp ID="OneNote" />
+			<ExcludeApp ID="Project" />
+			<ExcludeApp ID="Outlook" />
+			<ExcludeApp ID="Publisher" />
+			<ExcludeApp ID="OneDrive" />
+			<ExcludeApp ID="SharePointDesigner" />
+			<ExcludeApp ID="Visio" />
+			<ExcludeApp ID="skypeforbusiess" />
+			<ExcludeApp ID="Access" />
+			<ExcludeApp ID="Teams" />
+        </Product>
+    </Add>
+</Configuration>
